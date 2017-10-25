@@ -1,0 +1,44 @@
+
+#contenedor2{
+    position: absolute;
+    top: 250px;
+    left: auto;
+    bottom: auto;
+    margin-top: 35px;
+}
+
+.box{
+    float: left;
+    width:200px;
+    height: 200px;
+    margin: 10px;
+    background-color: black;
+   
+}
+
+img{
+    max-width: 100%;
+    opacity: 0.6;
+    
+}
+
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+hr{
+    width: 80px;
+    padding: 2px;
+    border: 0;
+    background-color: rgb(0,72,0);
+    height: 0;
+    margin-left: 10px;
+}
+span {
+    position: relative;
+    color: white;
+    bottom: 30px;    
+    left: 80px;
+}
